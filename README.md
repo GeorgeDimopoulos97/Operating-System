@@ -1,2 +1,2 @@
-# Opertaing-System
-2 sets of exercise
+# George Dimopoulos
+# georgios.as.dimopoulos@gmail.com
